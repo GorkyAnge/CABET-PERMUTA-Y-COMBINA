@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CABET">
+    <output-path>$PROJECT_DIR$/out/artifacts/CABET</output-path>
+    <root id="archive" name="CABET.jar">
+      <element id="module-output" name="C_ABET PERMUTACIONES Y COMBINACIONES" />
+    </root>
+  </artifact>
+</component>
